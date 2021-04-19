@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:powderblue;">
+    <head>
+        <title>Munanyo Movies</title>
+		<link href="style.css" rel="stylesheet">
+    </head>
+	
+    
+    <body>
+        <center><h1 style="background-color: steelblue; color: white;"><u>Munanyo Movies</u></h1></center> 
+		
 
-<h1>Munanyo Movies</h1>
 
-<p>Keep on the low and you shall recieve a blow</p>
 
-</body>
+
+
+
+	
+    </body>
+    
 </html>
